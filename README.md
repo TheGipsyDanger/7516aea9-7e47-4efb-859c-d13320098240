@@ -4,6 +4,8 @@
 Bem-vindo ao projeto **Next.js** configurado com **Tailwind CSS**! Este projeto oferece uma base sólida para o desenvolvimento de interfaces rápidas, responsivas e modernas.
 
 ---
+### **ATENCAO**
+Foi desenvolvido apenas os modelos desktop-1440px e o mobile-375px
 
 ## **🚀 Demonstração Online**
 
